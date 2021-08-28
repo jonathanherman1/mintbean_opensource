@@ -1,2 +1,2 @@
-Jonathan Herman - Full Stack Software Engineer
-I'm about to graduate from a General Assembly Software Engineering Immersive.
+Brandon Tor - Front end Developer
+Self taught developer from near Toronto kind of.
