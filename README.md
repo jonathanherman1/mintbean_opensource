@@ -1,3 +1,5 @@
+Damon "Duke" Henry - Nucamp Front End Student
+I have experience in HTML, CSS, Javascript, Regit pact and Redux, and I'm currently studying React Native.
 Hedênica 🔥
 
 Hey there! 👋 My name is Hedênica and I'm discovering the world of programming since December/2019. 🌎
