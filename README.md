@@ -7,7 +7,7 @@ Hi I am Rohit From Toronto
 
 Hi, I'm a junior web developer from Montreal, Canada!
 
-# Jonathan Herman - Full Stack Software Engineer
+### Jonathan Herman - Full Stack Software Engineer
 I'm about to graduate from a General Assembly Software Engineering Immersive.
 
 ## David Blackwelder
